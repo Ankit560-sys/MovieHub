@@ -1,4 +1,4 @@
-# usePopcorn 🎬
+# MovieHub 🎬
 A React.js application that allows users to search movies, view details, rate movies, and manage a watched list with persistent storage.
 
 ## Features
