@@ -1,6 +1,10 @@
 # MovieHub 🎬
 A React.js application that allows users to search movies, view details, rate movies, and manage a watched list with persistent storage.
 
+## Live Demo
+https://moviehub91.netlify.app
+
+
 ## Features
 - Search movies using OMDb API
 - View movie details
